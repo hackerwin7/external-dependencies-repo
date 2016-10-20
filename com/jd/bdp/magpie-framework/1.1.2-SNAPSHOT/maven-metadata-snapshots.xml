@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jd.bdp</groupId>
+  <artifactId>magpie-framework</artifactId>
+  <version>1.1.2-20150813.084703-1</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150813.084703</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160323025440</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1.2-20150813.084703-1</value>
+        <updated>20150813084703</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1.2-20150813.084703-1</value>
+        <updated>20150813084703</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

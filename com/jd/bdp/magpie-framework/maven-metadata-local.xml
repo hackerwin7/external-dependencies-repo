@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jd.bdp</groupId>
+  <artifactId>magpie-framework</artifactId>
+  <versioning>
+    <release>1.1.2</release>
+    <versions>
+      <version>1.1.2.1-SNAPSHOT</version>
+      <version>1.2.0</version>
+      <version>1.1.2</version>
+    </versions>
+    <lastUpdated>20160930083357</lastUpdated>
+  </versioning>
+</metadata>

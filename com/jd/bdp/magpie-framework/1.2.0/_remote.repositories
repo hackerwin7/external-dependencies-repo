@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 28 17:36:24 CST 2016
+magpie-framework-1.2.0.pom>=
+magpie-framework-1.2.0.jar>=
+magpie-framework-1.2.0-sources.jar>=
+magpie-framework-1.2.0-standalone.jar>=

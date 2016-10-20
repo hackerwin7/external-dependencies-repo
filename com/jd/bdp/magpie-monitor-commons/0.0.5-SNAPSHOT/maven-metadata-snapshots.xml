@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.jd.bdp</groupId>
+  <artifactId>magpie-monitor-commons</artifactId>
+  <version>0.0.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot />
+    <lastUpdated>20161017081047</lastUpdated>
+  </versioning>
+</metadata>
